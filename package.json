@@ -1,0 +1,26 @@
+{
+  "name": "myCartFrontEnd",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Shubham Shekhar <shubham.ae.iitkgp@gmail.com>",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "glamor": "^2.20.40",
+    "is-email": "^1.0.0",
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
+    "react-infinite-scroll-component": "^4.1.0",
+    "react-router-dom": "4.1.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^5.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
